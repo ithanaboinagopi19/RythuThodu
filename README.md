@@ -1,7 +1,7 @@
 # RythuThodu
 ## Live Application
 
-[Open RythuThodu](https://ubiquitous-figolla-05e408.netlify.app/)
+[Open RythuThodu]((https://rythuthodu.netlify.app/))
 
 # RythuThodu 🌾
 
