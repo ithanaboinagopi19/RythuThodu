@@ -1,7 +1,7 @@
 # RythuThodu
 ## Live Application
 
-[Open RythuThodu]([(https://rythuthodu.netlify.app/)])
+[Open RythuThodu](https://rythuthodu.netlify.app/)
 
 # RythuThodu 🌾
 
