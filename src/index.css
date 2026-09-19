@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-emerald-900/5 text-slate-800 antialiased font-sans selection:bg-emerald-200 selection:text-emerald-900;
+  }
+}
+
+/* Accessible focus ring and touch targets for farmers */
+.touch-target {
+  min-height: 48px;
+  min-width: 48px;
+}
+
+/* Custom scrollbar for mobile cards */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Subtle print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
